@@ -1,1 +1,1 @@
-# NN-zero-to-hero
+doing Andrej Karpathy's zero to hero
